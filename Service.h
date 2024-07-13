@@ -10,7 +10,7 @@
 // Classes
 //******************************************************
 
-#ifdef EPS32
+#ifdef ESP32
 
 class Service : public NameBase
 {
